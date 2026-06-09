@@ -1,0 +1,6 @@
+{
+  "name": "AniManhwa3D Uz",
+  "description": "Foydalanuvchilar turli xil film, anime, va donghualarni tomosha qilishadi va ularni oflayn rejimda ham ko'ra olishadi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
